@@ -16,16 +16,25 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Learning Resources Vue App is a comprehensive and user-friendly web application designed to assist individuals in learning and mastering Vue.js, a popular JavaScript framework for building interactive user interfaces.
+The Learning Resources App is a user-friendly web application developed using Vue.js. Its main purpose is to provide a platform for sharing and accessing various learning resources that aid in knowledge acquisition and study.
 <br>
+<!-- ABOUT THE PROJECT -->
+## More  About The Project
+The website is designed to be simple and intuitive, ensuring a seamless user experience. The primary features of the Learning Resources App are centered around two main sections: "Add Resource" and "Stored Resource."
 
+In the "Add Resource" section, users are encouraged to contribute to the platform by sharing the learning resources they have come across. They can provide a title, description, and a link to the resource they want to share. This feature promotes collaboration and information sharing, allowing users to discover new and valuable learning materials recommended by others.
+
+On the other hand, the "Stored Resource" section serves as a repository of the shared resources. Users can browse through a collection of resources contributed by fellow learners and educators. This section provides a convenient way to explore a diverse range of learning materials gathered from various sources, which can include articles, videos, tutorials, online courses, and more.
+
+The Learning Resources App fosters a sense of community and knowledge exchange. Users can benefit from the collective expertise of others, discovering resources they may have not encountered otherwise. This collaborative environment promotes continuous learning and enables users to expand their knowledge across different subjects and domains.
+
+The app's interface is designed to be visually appealing and user-friendly, ensuring easy navigation and efficient resource discovery. The use of Vue.js as the underlying framework allows for dynamic and responsive interactions, enhancing the overall user experience.
+
+Overall, the Learning Resources App provides a valuable platform for learners, educators, and enthusiasts to connect and share knowledge. By leveraging the power of community contributions, this website facilitates the discovery of high-quality learning resources, making it an excellent tool for those seeking to expand their understanding and enhance their educational journey.
+<br>
 
 ### Built With
 
-* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-* ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 * ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 
