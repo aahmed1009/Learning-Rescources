@@ -69,8 +69,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 <!-- CONTACT -->
 ## Contact
 
-ِAlaa Ahmed - alaa.ahmedgamal10@gmail.com
-
+ِ
+Alaa Ahmed - alaa.ahmedgamal10@gmail.com
 
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
