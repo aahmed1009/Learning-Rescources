@@ -1,7 +1,7 @@
 <template>
     <ul>
         <AppRescources v-for="resource in resources" :key="resource.id" :title="resource.title"
-            :description="resource.description" :link="resource.link">
+            :description="resource.description" :link="resource.link" :id="resource.id">
         </AppRescources>
     </ul>
 </template>
