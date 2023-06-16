@@ -9,7 +9,7 @@
 <h3 align="center">Learning-Rescources</h3>
 
   <p align="center">
-    Website for saving important sources 
+it’s a simple website that allow us to share different learning resources that help us and the athors to know multible informations from different resources, it helps us to study 
     
     
 </div>
