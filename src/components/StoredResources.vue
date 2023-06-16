@@ -9,7 +9,7 @@
 <script>
 import AppRescources from './AppResources.vue'
 export default {
-    props: ['resources'],
+    inject: ['resources'],
     components: {
         AppRescources
     },
