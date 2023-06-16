@@ -1,5 +1,5 @@
 # Learning-Rescources
-# status-page
+# Learning Resources Vue App
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![MIT License][license-shield]][license-url]
 
